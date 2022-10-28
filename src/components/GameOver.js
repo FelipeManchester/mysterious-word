@@ -1,4 +1,5 @@
 import './GameOver.css';
+import React from 'react';
 
 const GameOver = ({ retry, score }) => {
   return (

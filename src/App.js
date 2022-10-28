@@ -2,6 +2,7 @@
 import './App.css';
 
 // React
+import React from 'react';
 import { useCallback, useEffect, useState } from 'react';
 
 // data

@@ -1,18 +1,18 @@
 html,
 body {
   height: 100%;
+  overflow: hidden;
 }
 
 body {
   font-family: 'IBM Plex Mono', sans-serif;
   margin: 0;
   padding: 0;
-  background: #2C3037;
-  color: white;
+  background: #26213e;
 }
 
 button {
-  background-color: #414B55;
+  background-color: #7f3d69;
   color: #fff;
   padding: 0 45px;
   border: 2px solid #fff;
@@ -26,5 +26,5 @@ button {
 }
 
 button:hover {
-  background-color: #2B2F35;
+  background-color: #d75893
 }

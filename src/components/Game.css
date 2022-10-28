@@ -1,13 +1,23 @@
+p {
+  color: white;
+}
+
 .game h1 {
-  font-size: 2.5em;
+  font-size: 2rem;
 }
 
 .points span {
   font-weight: bold;
 }
 
+
+h3 {
+  color: white;
+}
+
 .tip span {
   color: #ecfa00;
+  text-transform: uppercase;
 }
 
 .wordContainer {
@@ -46,4 +56,16 @@
   font-size: 2em;
   text-align: center;
   margin-right: 1em;
+}
+
+.wrongLettersContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrongLettersContainer span {
+  margin-left: 10px;
+  text-transform: uppercase;
+  color: #f3e460;
 }
