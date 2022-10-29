@@ -4,6 +4,7 @@ p {
 
 .game h1 {
   font-size: 2rem;
+  margin: 2rem auto;
 }
 
 .points span {
@@ -21,10 +22,10 @@ h3 {
 }
 
 .wordContainer {
-  margin: 1.5em;
   padding: 1.5em;
   border: 20px solid #ecfa00;
   display: flex;
+  justify-content: center;
 }
 
 .letter,
@@ -39,6 +40,7 @@ h3 {
   color: #000;
   font-weight: bold;
 }
+
 
 .letterContainer p {
   margin-bottom: 1.2em;
@@ -68,4 +70,7 @@ h3 {
   margin-left: 10px;
   text-transform: uppercase;
   color: #f3e460;
+  /* width: 100vw; */
 }
+
+@media (min-width: 600px) {}
