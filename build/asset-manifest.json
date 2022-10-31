@@ -1,15 +1,15 @@
 {
-  "main.css": "/mysterious-word/static/css/main.6afe7144.chunk.css",
-  "main.js": "/mysterious-word/static/js/main.35cd390f.chunk.js",
-  "main.js.map": "/mysterious-word/static/js/main.35cd390f.chunk.js.map",
-  "static/js/1.591bdcbf.chunk.js": "/mysterious-word/static/js/1.591bdcbf.chunk.js",
-  "static/js/1.591bdcbf.chunk.js.map": "/mysterious-word/static/js/1.591bdcbf.chunk.js.map",
-  "static/js/2.106e3121.chunk.js": "/mysterious-word/static/js/2.106e3121.chunk.js",
-  "static/js/2.106e3121.chunk.js.map": "/mysterious-word/static/js/2.106e3121.chunk.js.map",
-  "runtime~main.js": "/mysterious-word/static/js/runtime~main.db930ca4.js",
-  "runtime~main.js.map": "/mysterious-word/static/js/runtime~main.db930ca4.js.map",
-  "static/css/main.6afe7144.chunk.css.map": "/mysterious-word/static/css/main.6afe7144.chunk.css.map",
-  "index.html": "/mysterious-word/index.html",
-  "precache-manifest.fe16f1726ce488f274caab11114d6422.js": "/mysterious-word/precache-manifest.fe16f1726ce488f274caab11114d6422.js",
-  "service-worker.js": "/mysterious-word/service-worker.js"
+  "files": {
+    "main.css": "/mysterious-word/static/css/main.13b8ebc7.css",
+    "main.js": "/mysterious-word/static/js/main.a6739b00.js",
+    "static/js/787.10e6c7d6.chunk.js": "/mysterious-word/static/js/787.10e6c7d6.chunk.js",
+    "index.html": "/mysterious-word/index.html",
+    "main.13b8ebc7.css.map": "/mysterious-word/static/css/main.13b8ebc7.css.map",
+    "main.a6739b00.js.map": "/mysterious-word/static/js/main.a6739b00.js.map",
+    "787.10e6c7d6.chunk.js.map": "/mysterious-word/static/js/787.10e6c7d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b8ebc7.css",
+    "static/js/main.a6739b00.js"
+  ]
 }
